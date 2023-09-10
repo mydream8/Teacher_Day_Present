@@ -1,0 +1,7 @@
+﻿  main.c
+D:\MyCode\C\Teacher's_Day_Present\main.c(47,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\MyCode\C\Teacher's_Day_Present\main.c(50,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\MyCode\C\Teacher's_Day_Present\main.c(53,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\MyCode\C\Teacher's_Day_Present\main.c(56,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\MyCode\C\Teacher's_Day_Present\main.c(59,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Teacher's_Day_Present.vcxproj -> D:\MyCode\C\Teacher's_Day_Present\x64\Debug\Teacher's_Day_Present.exe
